@@ -236,8 +236,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   const bioMessages = [
-    "los crackos el papos",
-    "Feel me, how could I ever be, sugar free? Why is it you taste so sweet?"
+    "hi, im steelyban.. yeah.. yeah.. uh",
+    "Feel me, how could I ever be, sugar free? Why is it you taste so sweet?",
+    "lo crackos el papos no muendo"
   ];
   let bioText = '';
   let bioIndex = 0;
@@ -668,4 +669,5 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   typeWriterStart();
+
 });
