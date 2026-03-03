@@ -236,7 +236,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   const bioMessages = [
-    "los crackos el papos",
+    "julie playing rn in order of pages: starjump, piano instrumental, flutter, feminine adornments, catalogue",
     "Feel me, how could I ever be, sugar free? Why is it you taste so sweet?"
   ];
   let bioText = '';
@@ -670,5 +670,6 @@ document.addEventListener('DOMContentLoaded', () => {
   typeWriterStart();
 
 });
+
 
 
